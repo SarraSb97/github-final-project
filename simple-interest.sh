@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # SarraSb97
 
    # Input:
    # p, principal amount
@@ -26,5 +26,3 @@
    s=`expr $p \* $t \* $r / 100`
    echo "The simple interest is: "
    echo $s
-
-read s
